@@ -8,7 +8,6 @@
  * http://www.eclipse.org/legal/epl-v10.html
  * forked Copy
  * Kommentar ergänzt
- * jnofdsnbogn
  *******************************************************************************/
 package org.eclipse.example.calc.internal;
 
@@ -40,6 +39,7 @@ public class Calculator {
 
 	private void setupDefaultOperations() {
 		// Kommentar Andreas vom Hofe
+		// i want more
 		new Equals();
 		new Minus();
 		new Plus();
